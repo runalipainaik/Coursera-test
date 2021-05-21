@@ -1,0 +1,42 @@
+.name1{
+
+    font-weight: bolder;
+}
+.menu{
+    text-align: center;
+    padding: 10px;
+
+}
+
+.food{
+   
+    margin: 9px;
+    margin-top: 20px;
+    background-color: rgb(129, 127, 124);
+    
+}
+
+.heading{
+    text-align: center;
+    padding: 10px;
+    font-size: larger;
+    font-weight: bold;
+    
+}
+
+.text1{
+    padding: 6px;
+}
+
+.hide1{
+    display: none;
+    text-align: center;
+    font-size: large;
+    font-weight: 1000;
+
+}
+@media (max-width:768px){
+    .hide1{
+        display: block;
+    }
+}
